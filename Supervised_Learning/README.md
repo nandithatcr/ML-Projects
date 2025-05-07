@@ -9,7 +9,6 @@ This folder contains machine learning projects that involve supervised learning 
 ## Projects
 - **Titanic Survival Prediction**: Predicting survival of passengers using classification models.
 - **House Price Prediction**: Estimating housing prices using regression models.
-- *(Add more as you build)*
 
 ## Tools & Libraries
 - Python, Scikit-learn, Pandas, NumPy, Seaborn, Matplotlib
